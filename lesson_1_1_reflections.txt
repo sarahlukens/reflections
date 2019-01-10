@@ -1,0 +1,5 @@
+ How did viewing a diff between 2 versions of a file help you see the bug that was introduced?
+
+1. It limited the lines to look at, I only had to look at the ones that were different
+2. Once I looked at what was changed, I looked at what was funny, which was pretty clear
+3. I was really happy the course didn't ask for "line number", because that wasn't there in the diff output

@@ -1,0 +1,11 @@
+Reflect: using history for efficiency
+
+
+
+How could having easy access to the entire history of a file make you a more efficient programern the long term?
+
+Reflection:
+
+It could make you more efficient because you can have a catalogue of past code neatly stored, if you want to look up what you did.  I personally spend a lot of time digging through old notebooks to find snippets of codes, and my notebooks tend to have their own versioning as I evolve so I need to find the right one.  Having a bunch stored neatly in versions should be efficient.
+
+

@@ -1,0 +1,7 @@
+Reflect: Manual commits
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like google docs
+
+Pros: each commit should be compilable, ability to create a log describing why you made each commit, natural breaks between each commit
+
+Cons: if you're flaky and forget to commit, if your computer is being crazy and crashing a bunch leaving unsaved work, 

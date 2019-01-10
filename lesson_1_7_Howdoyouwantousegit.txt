@@ -1,0 +1,3 @@
+Now that you have your workspace set up, what do you want to try using git for?
+
+I want to use Git for version controlling my codes, and for better collaborating with my team.  I love make stuff work, but I need to do it in a better way.
