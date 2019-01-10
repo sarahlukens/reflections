@@ -1,0 +1,3 @@
+How can you use the staging area to make sure you have 1 commit per logical change?
+
+You can use the git diff functions!  Git diff with no argument shows what it's in the staging area compared to the working direction, and git diff --staged shows what will be added with a commit.  When you run git diff --staged, you should review the differences to make sure there is one logical theme.

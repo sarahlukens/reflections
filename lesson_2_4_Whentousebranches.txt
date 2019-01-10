@@ -1,0 +1,4 @@
+What are some situations when branches would be helpful in keeping your history organized? how would branches help?
+
+For collaboration with multiple people, each person has their own branch and can track who did what and bugs that may be caused
+Also changes discussed in the class - if I want to do something experimental, or make changes for a different persona such as an italian speaker
