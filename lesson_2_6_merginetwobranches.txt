@@ -1,0 +1,3 @@
+What is the result of merging two branches together? why do we represent it in a diagram the way we do?
+
+When you merge two branches, changes are added.  You need to define the parent that continues on specifically.  helping to view them in diagram helps to see when changes were made

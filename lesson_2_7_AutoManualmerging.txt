@@ -1,0 +1,8 @@
+What are the pros and cons of Gits automatic merging vs always doing merges manually?
+
+Pros:
+It automatically finds conflicts and points out where they happen
+Often, a code base can be so large that a change in one area of it will only help the whole thing holistically, and this is probably the most common use case
+
+Cons:
+Anything automatic is done automatically, which means funny things may happen
