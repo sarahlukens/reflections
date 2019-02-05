@@ -5,4 +5,17 @@ If you have multiple computers, if you are collaborating with other people.
 
 Why might you want to always pull changes manually rather than having Git automatically stay up to date with your remote repository?
 
-Lots of reasons.  you could be collaborating, you could be testing things out and have some code in a state of not working - when would automatically be didacted?  
+Lots of reasons.  you could be collaborating, you could be testing things out and have some code in a state of not working - when would automatically be didacted?
+
+Describe the differences between forks, clones, and branches.  When would you use one instead of the other?
+
+Forks are copies of a GitHub repository in github, while clones happen locally.  Branches are within a repository.  
+
+
+
+
+
+
+
+
+  
